@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+weather:
+  api-key: <ADD Your Weather API key here>
+  api-url: http://api.weatherapi.com/v1
+
+spring:
+  application:
+    name: ai-functions
+  ai:
+    openai.api-key: <ADD Your Open API key here>
+    openai.chat.options.model: gpt-4
