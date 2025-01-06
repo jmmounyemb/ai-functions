@@ -6,7 +6,7 @@ if we were to ask an LLM "What is the  weather currently like in Montreal", well
 are asking and the LLM, will not be able to give us an answer. Spring AI Functions provide a way to mitigate that by providing
 the AI model with metadata about our own function that it can use to retrieve that information as it processes the prompt. 
 
-## Project Overview
+## Overview
 
 This project showcases the integration of Spring AI Functions with Spring Boot to create a chatbot that answer real-time questions by calling our own functions.
 
